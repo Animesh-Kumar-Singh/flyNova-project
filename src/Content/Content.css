@@ -1,0 +1,41 @@
+.parent-content{
+    margin: 3%;
+}
+
+.destination-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.destination-subTitle {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.sub-recommended-tray {
+    display:flex;
+    justify-content: space-between;
+}
+
+.recommend-holiday-content {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.recommend-holiday-subContent {
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.cost {
+    color: #1262AF !important;
+}
+

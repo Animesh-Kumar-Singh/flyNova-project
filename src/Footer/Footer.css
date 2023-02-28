@@ -1,0 +1,45 @@
+.footer-suscribe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.suscribe-section {
+    background-color: #F3F7FB;
+    padding: 1%;
+}
+
+.footer-text {
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    background-color: white;
+    margin: 1%;
+    border-radius: 1%;
+}
+
+.footer-info {
+    display: flex;
+    background: linear-gradient(91.74deg, #0B5BA8 30.91%, #299BD8 100.98%);
+    justify-content: space-evenly;
+
+}
+
+.sub-footer-info {
+    display: flex;
+    flex-direction: column;
+    padding: 1%;
+    justify-content: space-between;
+}
+
+.line {
+    width: 25%;
+    height: 0px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transform: rotate(90deg);
+    
+}
+
+.link {
+    color: white !important;
+}
